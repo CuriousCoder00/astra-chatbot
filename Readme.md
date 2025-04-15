@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 In order to connect to the Gemini API (for AI-powered responses), you'll need to obtain an API key.
 
-- Go to the [https://ai.google.dev/gemini-api/docs/api-key](Gemini API documentation) and follow the steps to get your API key.
+- Go to the [Gemini API documentation](https://ai.google.dev/gemini-api/docs/api-key) and follow the steps to get your API key.
 - Once you have the API Key paste the API Key in the `.env` file
 
 ### 6. Run the ASTRA
